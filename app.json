@@ -4,7 +4,7 @@
   "repository": "https://github.com/Mastjatt/AJU-SER
   "logo": "https://i.ibb.co/kQ98t1k/AJU.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
-  "buildpacks": [
+  "buildpacks": .[
     {
       "url": "heroku/nodejs"
     },
